@@ -1,14 +1,14 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB, assim este projeto veio deste evento. <br/>
+NLW is an exclusive and free event, promoted by Rocketseat for teaching WEB technologies, so this project came from this event. <br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#%EF%B8%8F-licença">Licença</a>
+  <a href="#%EF%B8%8F-license">License</a>
 </p>
 
 <p align="center">
@@ -21,29 +21,29 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <img alt="projeto Habits" src="./.github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - JavaScript
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O Habits é um app para ajudar a rastrear os hábitos.
+Habits is an app to help track habits.
 
-- [Visite o projeto online](https://henriquediassilva.github.io/Habits/)
+- [Visit the online project](https://henriquediassilva.github.io/Habits/)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can preview the project layout through [THIS LINK](https://www.figma.com/community/file/1195327109778210238). It is necessary to have a [Figma](https://figma.com) account to access it.
 
-## 🖊️ Licença
+## 🖊️ License
 
-Esse projeto está sob a licença MIT.
+This project is licensed under the MIT license
 
 ---
 
-Projeto feito com ♥ por Henrique Dias Silva no evento da Rocketseat.
+Project made with ♥ by Henrique Dias Silva at the Rocketseat event.
